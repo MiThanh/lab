@@ -1,0 +1,80 @@
+@media (max-width: 320px) {
+  .name {
+    width: 100%;
+  }
+  .avatar {
+    display: none;
+  }
+  .bang {
+    display: block;
+    text-align: start;
+  }
+
+  .grid-3 {
+    display: block;
+  }
+
+  .bg-grey {
+    display: block;
+  }
+  #target {
+    padding-left: 10px;
+  }
+  #personal-info {
+    padding-left: 10px;
+  }
+  .CC-DA {
+    display: block;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .ke-doc {
+    border-top: 2px solid #d6c08d;
+    border-bottom: 2px solid #d6c08d;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    border-left: none;
+    padding-left: 0;
+  }
+  #project {
+    display: block;
+
+    padding: 0;
+  }
+  .no-text {
+    display: none;
+  }
+
+  /* Digital-cv */
+  .grid-2 {
+    display: block;
+  }
+
+  .grid {
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+  }
+  .icon-Q {
+    width: 30px;
+    height: 30px;
+  }
+  .mobie {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    text-align: start;
+
+    border-bottom: 2px dotted#4dabf7;
+  }
+  .bg-tim {
+    margin: 0;
+    width: 50px;
+  }
+}
